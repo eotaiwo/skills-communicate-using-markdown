@@ -18,6 +18,7 @@ public class Main {
 ```
 
 - [ ] Wake up at 5:30 AM 5 DAYS A WEEK 36 WEEKS A YEAR for 4 YEARS
-- [ ] eat lunch this not edible
+- [ ] eat lunch that is not edible
 - [ ] graduate high school
+
 
